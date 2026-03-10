@@ -8,7 +8,7 @@ const port = process.env.PORT;
 var cors = require("cors");
 
 app.use(cors({
-  origin: *
+  origin: '*'
 }));
 
 app.use(express.json()); //to convert request data to json
