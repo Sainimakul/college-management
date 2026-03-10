@@ -39,22 +39,22 @@ The College Management System is a MERN Stack-based system with three different 
 ## Setup
 
 # Backend setup
--cd backend
--npm install
--npm start
+- cd backend
+- npm install
+- npm start
 
 Create .env file
 
--MONGODB_URI=your_mongodb_uri
--PORT=8000
--FRONTEND_API_LINK=http://localhost:3000
+- MONGODB_URI=your_mongodb_uri
+- PORT=8000
+- FRONTEND_API_LINK=http://localhost:3000
 
 # Frontend setup
--cd frontend
--npm install
--npm start
+- cd frontend
+- npm install
+- npm start
 
 Create .env file
 
--REACT_APP_APILINK = http://localhost:8000/api
--REACT_APP_MEDIA_LINK = http://localhost:8000/media
+- REACT_APP_APILINK = http://localhost:8000/api
+- REACT_APP_MEDIA_LINK = http://localhost:8000/media
