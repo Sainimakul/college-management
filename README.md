@@ -4,7 +4,8 @@
 The College Management System is a MERN Stack-based system with three different login portals for students, faculty, and admin.
 
 # Live url
-https://college-management-backend-gtcq.onrender.com
+https://college-management-backend-vtzx.vercel.app/
+
 
 ## Tech Stack
 
